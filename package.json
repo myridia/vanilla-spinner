@@ -1,0 +1,25 @@
+{
+  "author":
+  {
+    "name": "veto@myridia.com",
+    "url": "https://www.npmjs.com/package/vanilla-spinner"
+  },
+  "dependencies":
+  {},
+  "deprecated": false,
+  "description": "Convenient Functions for the Free jqGrid",
+  "homepage": "https://w3.calantas.org/vanilla-spinner",
+  "license": "GPL-3.0-or-later",
+  "main": "vanilla-spinner.js",
+  "name": "vanilla-spinner",
+  "repository":
+  {
+    "type": "hg",
+    "url": "https://calantas.org/vanilla_spinner"
+  },
+  "scripts":
+  {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
