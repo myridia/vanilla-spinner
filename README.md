@@ -1,3 +1,5 @@
+<img src="vanilla-spinner.svg" alt="vanilla-spinner" width="120">
+
 # vanilla-spinner
 Pure javascript spinner what creates a simple SVG spinner.
 
